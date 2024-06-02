@@ -30,4 +30,4 @@ And then use this second command:
 ### ./main compressedFile.huf OutPutFile.txt
 
 ## For More Help:
-[View Sample Folder](Samples)
+[View Samples Folder](Samples)
